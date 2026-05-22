@@ -407,7 +407,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 
-# A(B)
+# 4(B)
 ```.C
 /* USER CODE BEGIN Header */
 /**
@@ -708,8 +708,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of serial port utility   :
+4(A)
  <img width="1920" height="1080" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/d5d04094-0e40-4b4d-add3-dd0698443822" />
-
+4(B)
  <img width="1910" height="946" alt="Screenshot 2026-05-12 160848" src="https://github.com/user-attachments/assets/16c99c5f-b5b2-4fe0-8794-9cfcfaae2a6b" />
 
  ## Circuit board :
