@@ -717,6 +717,12 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  <img width="720" height="1600" alt="WhatsApp Image 2026-05-22 at 3 40 04 PM" src="https://github.com/user-attachments/assets/1cc6de70-a385-464e-8dd3-7e9cd2bcefb8" />
 
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-12 at 11 38 30 AM" src="https://github.com/user-attachments/assets/9081b7a7-ec09-4abe-a000-be40bc9f7786" />
+
+
+ <img width="720" height="1600" alt="WhatsApp Image 2026-05-12 at 11 38 30 AM (1)" src="https://github.com/user-attachments/assets/bce59dcc-288e-4a71-92ab-2629dce866eb" />
+
+
  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
